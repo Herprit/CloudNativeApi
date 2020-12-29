@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ScrD8x0FjrI6oeSrD8+9kODcuvV4+qq0u51Z39utdaD0BueVVJ1OTWkK+4iHFvZFQs3YQyyNNzIW8ZDxKtLVDg==",
+  "success": true,
+  "projectFilePath": "/Users/herprit/Development/CloudNativeApi/CloudNativeApi/CloudNativeApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/herprit/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
