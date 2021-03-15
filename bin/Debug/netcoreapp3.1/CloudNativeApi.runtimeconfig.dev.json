@@ -1,9 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/Users/herprit/.dotnet/store/|arch|/|tfm|",
-      "/Users/herprit/.nuget/packages",
-      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      "C:\\Users\\Herpr\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Herpr\\.nuget\\packages"
     ]
   }
 }
